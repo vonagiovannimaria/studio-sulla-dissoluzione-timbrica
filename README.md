@@ -286,11 +286,9 @@ audio/
 
 The full eight-channel WAV version is not stored directly in the main repository in order to keep the repository lightweight.
 
-It will be provided as a **GitHub Release asset**.
+It is available as a **GitHub Release asset**:
 
-```text
-Full 8-channel WAV version: to be provided as a GitHub Release asset.
-```
+[Download the full 8-channel WAV version from the Releases section](../../releases)
 
 ## Documentation
 
